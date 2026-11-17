@@ -1,0 +1,9 @@
+Train Num,Train Name,Source,Destination,Departure,Arrival,Quantity,Cost
+12345,Chennai Express,Chennai,Mumbai,06:00,22:00,200,850.00
+22301,Duronto Express,Chennai,Delhi,07:30,07:30,180,1200.00
+16057,Saptagiri Express,Chennai,Tirupati,06:10,09:40,250,320.00
+12163,Chennai Dadar Express,Chennai,Dadar,14:00,18:30,160,950.00
+22625,Double Decker Express,Chennai,Bangalore,06:05,11:15,300,450.00
+17311,Vasco Express,Chennai,Vasco,22:00,06:30,140,1100.00
+12605,Pallavan Express,Chennai,Coimbatore,07:00,12:45,220,380.00
+11041,Mumbai Express,Chennai,Mumbai,11:45,11:45,190,870.00
