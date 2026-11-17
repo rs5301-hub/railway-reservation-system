@@ -1,7 +1,7 @@
 /*
  * ╔══════════════════════════════════════════════════════════════╗
- * ║         RAILWAY RESERVATION SYSTEM                          ║
- * ║                        ║
+ * ║         RAILWAY RESERVATION SYSTEM                           ║
+ * ║                                                              ║
  * ╚══════════════════════════════════════════════════════════════╝
  *
  *  CSV Files used (auto-created if missing):
