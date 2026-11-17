@@ -1,15 +1,14 @@
 /*
  * ╔══════════════════════════════════════════════════════════════╗
  * ║         RAILWAY RESERVATION SYSTEM                          ║
- * ║         C++ Port of Python Pandas Project                   ║
+ * ║                        ║
  * ╚══════════════════════════════════════════════════════════════╝
  *
  *  CSV Files used (auto-created if missing):
  *    Train_details.csv     — train database
  *    Passenger_details.csv — passenger/booking database
  *
- *  Compile:  g++ -std=c++17 -o railway railway.cpp
- *  Run:      ./railway
+ * 
  */
 
 #include <iostream>
